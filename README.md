@@ -11,6 +11,10 @@
 From creating full web apps 🌐 to managing APIs 🔐 or performing system-level actions ⚙️ — PowerAI does it all.
 
 ---
+## INTERFACE ##
+
+<img width="1538" height="582" alt="image" src="https://github.com/user-attachments/assets/e9a18000-6980-421d-9f2b-f54db5be5271" />
+<img width="1195" height="670" alt="image" src="https://github.com/user-attachments/assets/608b9656-16f2-476b-8ea3-5804a7665c23" />
 
 ## 🧩 Key Capabilities
 
@@ -65,3 +69,10 @@ To install PowerAI globally, run:
 
 ```bash
 npm install -g @notbeastr/powerai
+```
+## Working ##
+```bash
+powerai
+```
+## Paste Your Api Of Gemini And Start Using
+
