@@ -2,7 +2,7 @@
 
 > The Command Line That **Thinks, Learns, and Builds** With You 🤖💡
 
----
+
 
 ## 🚀 What is PowerAI?
 
@@ -11,7 +11,6 @@
 From creating full web apps 🌐 to managing APIs 🔐 or performing system-level actions ⚙️ — PowerAI does it all.
 
 ---
-<img width="1542" height="951" alt="image" src="https://github.com/user-attachments/assets/350d7122-393e-4eb2-811f-7a1cf3a948f6" />
 
 ## 🧩 Key Capabilities
 
@@ -51,7 +50,6 @@ Your personalized AI developer assistant! 🚀
 
 - 💬 **Chat Mode** — Talk to PowerAI like an AI model right in your terminal.  
 - 🏗️ **Build Websites & Apps** — Generate full-stack projects in minutes.  
-- 💎 **GUI Mode** — Switch to a visual interface with a beautiful dashboard.  
 
 Includes:
 - Visual command builder 🎨  
