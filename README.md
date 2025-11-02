@@ -2,7 +2,7 @@
 
 > **The Ultimate AI Development Assistant** - Advanced Agentic Coding, System-Wide Operations, and Autonomous Software Development 🤖💻
 
-![npm version](https://img.shields.io/badge/npm-v5.0.0-blue.svg)
+[![npm version](https://img.shields.io/badge/npm-v5.0.0-blue.svg)](https://www.npmjs.com/package/@notbeastr/powerai/v/5.0.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Windows](https://img.shields.io/badge/Platform-Windows-blue.svg)](https://www.microsoft.com/windows)
 [![Node.js](https://img.shields.io/badge/Node.js-18+-green.svg)](https://nodejs.org/)
