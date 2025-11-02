@@ -2,7 +2,7 @@
 
 > **The Ultimate AI Development Assistant** - Advanced Agentic Coding, System-Wide Operations, and Autonomous Software Development 🤖💻
 
-[![npm version](https://badge.fury.io/js/%40notbeastr%2Fpowerai.svg)](https://badge.fury.io/js/%40notbeastr%2Fpowerai)
+[![npm version](https://badge.fury.io/js/%40notbeastr%2Fpowerai.svg)](https://badge.fury.io/js/%40notbeastr%2Fpowerai/5.0.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Windows](https://img.shields.io/badge/Platform-Windows-blue.svg)](https://www.microsoft.com/windows)
 [![Node.js](https://img.shields.io/badge/Node.js-18+-green.svg)](https://nodejs.org/)
@@ -36,20 +36,10 @@
 - **E-commerce Platforms** - Complete shopping systems with payments
 - **Social Media Apps** - Real-time chat, feeds, authentication
 
-#### 📱 **Mobile Applications**
-- **React Native** - Cross-platform iOS/Android apps
-- **Flutter** - High-performance mobile applications
-- **Progressive Web Apps** - Mobile-optimized web applications
-
 #### 🖥️ **Desktop Applications**
 - **Electron Apps** - Cross-platform desktop software
 - **WPF/.NET** - Native Windows applications
 - **Tauri** - Lightweight desktop apps with Rust
-
-#### 🤖 **AI & Data Science**
-- **Machine Learning Models** - TensorFlow, PyTorch implementations
-- **Data Analysis Pipelines** - Pandas, NumPy, visualization
-- **AI Chatbots** - Custom AI assistants and automation
 
 #### 🎮 **Games & Interactive**
 - **Web Games** - HTML5 Canvas, WebGL games
@@ -91,69 +81,6 @@ Project name: MyApp
 What to build: E-commerce website with React and Node.js
 Location: [1] Desktop [2] Custom [3] Workspace
 Tech Stack: [1] MERN [2] MEAN [3] Custom
-```
-
-### 🏗️ **Advanced Project Creation Example:**
-
-```
-T Mode> new
-Project name: TaskMaster
-What do you want to build: A full-stack task management app with React frontend, Node.js backend, MongoDB database, real-time updates, user authentication, and mobile-responsive design
-
-📍 Project Location: Desktop/TaskMaster (default)
-🛠️ Tech Stack: MERN (MongoDB, Express, React, Node.js)
-
-🧠 AI generating comprehensive development plan...
-
-📋 FULL-STACK WEB APPLICATION PLAN
-═══════════════════════════════════════════════════════════════
-
-📊 Plan Statistics:
-  • Steps: 24
-  • Files: 18
-  • Folders: 8
-  • Dependencies: 15
-
-🎯 Key Features:
-  • User authentication & authorization
-  • Real-time task updates with Socket.io
-  • Responsive mobile-first design
-  • RESTful API with Express.js
-  • MongoDB with Mongoose ODM
-  • JWT token-based security
-  • Comprehensive error handling
-  • Production deployment configuration
-
-🚀 Starting autonomous execution...
-
-━━━ [1/24] SETUP: Create project structure ━━━
-✅ Created folder: Desktop/TaskMaster
-✅ Created folder: Desktop/TaskMaster/client
-✅ Created folder: Desktop/TaskMaster/server
-
-━━━ [2/24] CONFIG: Initialize package.json ━━━
-✅ Created file: package.json (1,247 bytes)
-✅ Installed dependencies: express, mongoose, socket.io, jsonwebtoken
-
-━━━ [3/24] FRONTEND: Create React application ━━━
-✅ Created file: client/src/App.js (3,456 bytes)
-✅ Created file: client/src/components/TaskList.js (2,891 bytes)
-✅ Created file: client/src/components/TaskForm.js (2,134 bytes)
-
-... [continuing autonomous execution] ...
-
-━━━ [24/24] DEPLOY: Production configuration ━━━
-✅ Created file: Dockerfile (567 bytes)
-✅ Created file: docker-compose.yml (892 bytes)
-
-═══════════════════════════════════════════════════════════════
-✅ FULL-STACK APPLICATION "TaskMaster" COMPLETED SUCCESSFULLY!
-═══════════════════════════════════════════════════════════════
-📍 Location: C:\Users\YourName\Desktop\TaskMaster
-📊 Completed: 24/24 steps
-🎯 Ready for: Development, Testing, Deployment
-
-Next: [edit] / [test] / [optimize] / [deploy] / [new] / [main]
 ```
 
 ---
@@ -245,18 +172,10 @@ PowerAI v5.0 can create files and folders **anywhere** on your Windows system:
 - **Databases**: MongoDB, PostgreSQL, MySQL, SQLite
 - **Frameworks**: Express, FastAPI, Gin, Spring Boot, .NET
 
-### 📱 **Mobile Development**
-- **Cross-Platform**: React Native, Flutter, Ionic
-- **Native**: iOS (Swift), Android (Kotlin/Java)
 
 ### 🖥️ **Desktop Development**
 - **Cross-Platform**: Electron, Tauri, Qt
 - **Windows**: WPF, WinUI, .NET MAUI
-
-### 🤖 **AI & Data Science**
-- **Languages**: Python, R, Julia
-- **Frameworks**: TensorFlow, PyTorch, scikit-learn
-- **Tools**: Jupyter, Pandas, NumPy, Matplotlib
 
 ---
 
@@ -330,7 +249,7 @@ powerai
 **Setup Process:**
 1. Enter your Gemini API key when prompted
 2. PowerAI configures Windows-specific settings automatically
-3. Start using T Mode immediately!
+3. Start using The Cli!
 
 ---
 
@@ -411,14 +330,6 @@ quit / exit                # Exit PowerAI
 > Prototype an AI chatbot with natural language processing
 ```
 
-### 🔬 **Data Science & AI**
-```bash
-# Machine learning projects
-> Build a sentiment analysis model with Python and TensorFlow
-> Create data visualization dashboard with real-time updates
-> Generate automated reports from database queries
-> Process large datasets with parallel computing
-```
 
 ### 🎯 **Automation & Productivity**
 ```bash
@@ -458,16 +369,6 @@ MIT License - see [LICENSE](LICENSE) file for details.
 - **Claude Code & Gemini CLI** - Inspiration for advanced AI coding
 
 ---
-
-## 🚀 **What's New in v5.0**
-
-### 🎯 **Major Enhancements**
-- **Complete T Mode Rewrite** - Professional-grade agentic coding system
-- **System-Wide File Operations** - Create files/folders anywhere on Windows
-- **Advanced Project Management** - Templates, versioning, workspace management
-- **Enhanced AI Intelligence** - Better code generation and optimization
-- **Desktop-First Development** - Projects created on Desktop by default
-- **Professional UI/UX** - Improved command interface and user experience
 
 ### 🔧 **Technical Improvements**
 - **Enhanced Error Handling** - Better error recovery and user feedback
